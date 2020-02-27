@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7a8ab5e51082d624c8986aaabddd9f98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NoteExplosion: {fileID: 5791650915736717610, guid: c0a8d876dec14cc4ab7a76a7d0a85f39,
+      type: 3}
+  - MiniExplosion: {fileID: 4127228542548580394, guid: 766b81b533365fb4aaa08a38dacb0730,
+      type: 3}
+  - EffectExplosion: {fileID: 758901246574565214, guid: e5b84dff3c1c74f4382b546a411e658f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
