@@ -1,2 +1,2 @@
 # Astronaut
-![MainMenu](./Astronaut/img/MainMenu.PNG)
+![MainMenu](./Astronaut/img/MainMenu.jpg)
